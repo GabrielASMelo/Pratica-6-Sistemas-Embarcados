@@ -1,5 +1,6 @@
 # Pratica-6-Sistemas-Embarcados
 ## Introdução às interfaces de visão computacional, controle de acesso, versionamento e repositório de códigos
+#### Prof. Pedro Oliveira
 #### Gabriel Aguilar Soares de Melo N° 11915432
 #### João Pedro Suzuki de Figueiredo N° 11800712
 
