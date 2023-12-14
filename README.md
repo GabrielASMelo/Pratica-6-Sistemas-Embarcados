@@ -58,4 +58,9 @@ A aplicação dos scripts em Python fornecidos nesse repositório nos permitiu f
 <img src="https://github.com/GabrielASMelo/Pratica-6-Sistemas-Embarcados/assets/153654228/ac6b14f8-cbc2-466c-b5f2-0c3aab17d4ea" height="600px" width="600px">
 </div>
 
+
 ##### Câmera
+
+Para a parte que envolve o uso da câmera nessa prática, não foi possível realizar o seu devido uso. Após três tentativas falhas e conversas com o professor, percebemos que nos restaram duas explicações possíveis para o não funconamento da câmera: 
+- Desgaste da entrada do "cabo flat", seja por acúmulo de poeira ou sujeira na peça, ou o "encaixe" errado;
+- Uma atualização feita na Rasperry PI no início do semestre que pode ter removido o suporte para a câmera pela entrada flat, visto que esta entrou em desuso devido à sua grande quantidade de problemas.
