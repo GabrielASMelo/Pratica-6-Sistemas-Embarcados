@@ -61,6 +61,12 @@ A aplicação dos scripts em Python fornecidos nesse repositório nos permitiu f
 
 ##### Câmera
 
-Para a parte que envolve o uso da câmera nessa prática, não foi possível realizar o seu devido uso. Após três tentativas falhas e conversas com o professor, percebemos que nos restaram duas explicações possíveis para o não funconamento da câmera: 
+Para a parte que envolve o uso da câmera nessa prática, não foi possível realizar o seu devido uso. O problema era identificado na própria testagem da câmera, uma vez que ela não identificava a conexão realizada e quando utilizamos o comando "libcamera-hello", aparecia como "erro", informando que não havia nenhuma câmera conectada.
+
+Após três tentativas falhas com diferentes câmeras e conversas com o professor, percebemos que nos restaram duas explicações possíveis para o não funconamento da câmera: 
 - Desgaste da entrada do "cabo flat", seja por acúmulo de poeira ou sujeira na peça, ou o "encaixe" errado;
 - Uma atualização feita na Rasperry PI no início do semestre que pode ter removido o suporte para a câmera pela entrada flat, visto que esta entrou em desuso devido à sua grande quantidade de problemas.
+
+
+##### Git e GitHub
+
