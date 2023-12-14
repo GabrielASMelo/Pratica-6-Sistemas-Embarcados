@@ -13,5 +13,5 @@ while True:
 	print("ID: {}\nTexto: {}" .format(id, texto))
 	sleep(3)
 
-#Gabriel Aguilar Soares de Melo  N 11915432
-#João Pedro Suzuki de Figueiredo N 11800712
+# Gabriel Aguilar Soares de Melo  N 11915432
+# João Pedro Suzuki de Figueiredo N 11800712
