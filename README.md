@@ -68,4 +68,6 @@ Após três tentativas falhas com diferentes câmeras e conversas com o professo
 - Uma atualização feita na Rasperry PI no início do semestre que pode ter removido o suporte para a câmera pela entrada flat, visto que esta entrou em desuso devido à sua grande quantidade de problemas.
 
 ##### Git e GitHub
+Após criar uma conta no Git Hub e um repositório com código da disciplina, começamos a realizar os devidos comandos para executar e documentar o projeto dentro dele a partir da Raspberry Pi.
 
+Inicialmente, dentro da pasta que estamos fazendo uso, utilizamos primeiramente o comando "git init" , utilizado para criar um novo repositório. Na sequência, adicionamos os arquivos em python editados durante a prática 6 para o experimento do RFID, dando os devidos commits para salvá-los dentro do repositório. Dando continuidade, para adicionar um novo controle remoto, utilizamos o comando "git remote add origin" no terminal, com a URL do nosso repositório criada para esta prática. Depois, realizamos o comando "git push origin main" para efetuar push das alterações locais para o repositório online. O "git status" vem na sequência para conferir as alterações realizadas no repositório. Por fim, utilizamos o "git log" e "git log > historicogit.txt" para salvar o histórico de comando realizados de modo que gere um arquivo .txt incluído aqui nesta entrega.
