@@ -1,2 +1,12 @@
 cd /home/sel/1232
-git clone 
+git init
+git add tagRFID_pratica6.py
+git status
+git commit -m "primeiro commit"
+git add leituraRFID_pratica6.py
+git commit -m "segundo commit"
+git remote add origin https://github.com/GabrielASMelo/Pratica-6-Sistemas-Embarcados.git
+git push -u origin main
+git status
+git log
+git log > historicogit.txt
