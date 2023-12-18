@@ -1,1 +1,2 @@
-
+cd /home/sel/1232
+git clone 
