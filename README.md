@@ -67,6 +67,5 @@ Após três tentativas falhas com diferentes câmeras e conversas com o professo
 - Desgaste da entrada do "cabo flat", seja por acúmulo de poeira ou sujeira na peça, ou o "encaixe" errado;
 - Uma atualização feita na Rasperry PI no início do semestre que pode ter removido o suporte para a câmera pela entrada flat, visto que esta entrou em desuso devido à sua grande quantidade de problemas.
 
-
 ##### Git e GitHub
 
